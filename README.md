@@ -25,3 +25,15 @@ pnpm create next-app --example with-tailwindcss with-tailwindcss-app
 ```
 
 Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+
+
+## Start Servers
+### 1 Start NextJS 
+"npm run dev" from the root-folder 
+
+### 2 Start Sanity-framework
+cd into sanity folder and do "sanity start"
+
+Current YT-state
+YT Minute 46
+https://www.youtube.com/watch?v=6fNy0iD3hsk
