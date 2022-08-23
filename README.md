@@ -35,5 +35,5 @@ Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&ut
 cd into sanity folder and do "sanity start"
 
 Current YT-state
-YT Minute 46
+YT Minute 1:06
 https://www.youtube.com/watch?v=6fNy0iD3hsk
