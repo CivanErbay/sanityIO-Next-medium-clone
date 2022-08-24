@@ -37,6 +37,10 @@ cd into sanity folder and do "sanity start"
 ### ADD NEW TYPES FOR SANITY STUDIO
 Add in schema (sanity-folder) a new schema file with the necessary fields and import that into schema.js 
 
+### DEPLOY SANITY STUDIO 
+CD into sanity-folder
+type "sanity deploy" into console
+
 Current YT-state
 YT Minute 1:06
 https://www.youtube.com/watch?v=6fNy0iD3hsk
