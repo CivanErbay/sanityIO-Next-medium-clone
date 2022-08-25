@@ -42,5 +42,5 @@ CD into sanity-folder
 type "sanity deploy" into console
 
 Current YT-state
-YT Minute 1:06
+YT Minute 2:36
 https://www.youtube.com/watch?v=6fNy0iD3hsk
