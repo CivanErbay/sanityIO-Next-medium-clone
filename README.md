@@ -41,6 +41,11 @@ Add in schema (sanity-folder) a new schema file with the necessary fields and im
 CD into sanity-folder
 type "sanity deploy" into console
 
+### DEPLOY NEXT APP
+Push code into Github Repo
+Add ENV variables to Vercel 
+Deploy via vercel
+
 Current YT-state
 YT Minute 2:36
 https://www.youtube.com/watch?v=6fNy0iD3hsk
